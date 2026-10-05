@@ -1,6 +1,8 @@
 # RB5009 Cable Kit
 
 Cable management for a MikroTik RB5009UG+S+ printed on a QIDI MAX 4 in ELEGOO PLA.
+
+**Illustrated guide (PDF):** [RB5009_Cable_Kit.pdf](RB5009_Cable_Kit.pdf)
 Click any file in `stl/` to see it in 3D; use the download button (↓ "Download raw file") to save it.
 Every part prints in the orientation it is saved in, without supports.
 
